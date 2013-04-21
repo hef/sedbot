@@ -1,0 +1,10 @@
+Reflector==2013.01.04.02.13.58
+distribute==0.6.36
+dnspython3==1.10.0
+jedi==0.5b5
+namcap==3.2.4
+pyalpm==0.6
+pyelftools==0.20
+pyserial-py3k==2.6
+pyxdg==0.25
+virtualenv==1.9.1
